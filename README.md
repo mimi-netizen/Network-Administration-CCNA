@@ -1,4 +1,4 @@
-# GNS3-Cisco-IOS-VIRL-Network-Administration-CCNA
+# Network Administration
 
 This repository contains a comprehensive set of resources and materials for learning network administration using Cisco IOS and the VIRL (Virtual Internet Routing Lab) environment. It is designed to help individuals prepare for the Cisco Certified Network Associate (CCNA) certification exam.
 
